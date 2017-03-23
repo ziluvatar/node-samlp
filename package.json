@@ -23,7 +23,7 @@
     "flowstate": "^0.4.0",
     "querystring": "^0.2.0",
     "saml": "0.11.0",
-    "thumbprint": "0.0.1",
+    "thumbprint": "github:ziluvatar/thumbprint#node6",
     "xml-crypto": "0.8.4",
     "xmldom": "^0.1.19",
     "xpath": "0.0.5",
